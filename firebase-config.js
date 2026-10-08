@@ -9,12 +9,12 @@ import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.14.1/firebas
 
 // Configuración de tu proyecto Firebase
 const firebaseConfig = {
-  apiKey: "AIzaSyDNeN0AIcXw0aAiwc6S7472y7YMjHzbV94",
-  authDomain: "tienda-virtual-883ef.firebaseapp.com",
-  projectId: "tienda-virtual-883ef",
-  storageBucket: "tienda-virtual-883ef.firebasestorage.app",
-  messagingSenderId: "871120614985",
-  appId: "1:871120614985:web:0274d91497b7f1e3d33198"
+  apiKey: "EL_APIKEY_ESCAPO",
+  authDomain: "tienda-*****-883ef.firebaseapp.com",
+  projectId: "tienda-**********",
+  storageBucket: "tienda-*********************.app",
+  messagingSenderId: "8*******85",
+  appId: "EL_APPID_BUSCA_A_APIKEY"
 };
 // =======================================================
 // 🚀 INICIALIZAR FIREBASE
